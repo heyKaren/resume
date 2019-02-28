@@ -1,4 +1,4 @@
-#  임수현 Suhyun Lim
+#  임수현 (Suhyun Lim)
 ### iOS Developer 
 Swift, Objective-C<br/>
 
