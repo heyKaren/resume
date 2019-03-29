@@ -26,7 +26,7 @@ Swift, Objective-C<br/>
 **미리보기**<br/>
 <div>
 <video width="150" controls="controls" autoplay="autoplay">
-<source src="preview_iphonex.mp4"/>
+<source src="./emotiontrash/preview_iphonex.mp4"/>
 </video>
 <img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_02.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_03.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_04.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_05.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_06.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_07.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_08.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_09.png">
 </div><br/>
