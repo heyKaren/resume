@@ -23,10 +23,10 @@ Swift, Objective-C<br/>
 - 서비스 기간 2018.09 - 현재<br/>
 - 사용 기술 Swift, Realm, Firebase<br/>
 - 다운로드 <https://itunes.apple.com/kr/app/id1400251239/><br/><br/>
-앱스토어 전체 6위 🥳<br/>
-라이프스타일 1위  🥳<br/>
+**앱스토어 전체 6위** 🥳<br/>
+**라이프스타일 1위**  🥳<br/><br/>
 <div>
-<img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png">
+<img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png">
 </div>
 
 
