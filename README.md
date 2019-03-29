@@ -25,7 +25,8 @@ Swift, Objective-C<br/>
 - 다운로드 <https://itunes.apple.com/kr/app/id1400251239/><br/><br/>
 앱스토어 전체 6위 🥳<br/>
 라이프스타일 1위  🥳<br/>
+<div>
 <img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png">
-
+</div>
 
 
