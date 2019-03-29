@@ -25,8 +25,9 @@ Swift, Objective-C<br/>
 - 다운로드 <https://itunes.apple.com/kr/app/id1400251239/><br/><br/>
 **미리보기**<br/>
 <div>
-<img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_02.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_03.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_04.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_05.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_06.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_07.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_08.png"><img width="200" alt="image" src="./emotiontrash/iphonexsm_preview_09.png">
+<img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_02.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_03.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_04.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_05.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_06.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_07.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_08.png"><img width="150" alt="image" src="./emotiontrash/iphonexsm_preview_09.png">
 </div>
+
 **앱스토어 전체 6위** 🥳<br/>
 **라이프스타일 1위**  🥳<br/>
 <div>
