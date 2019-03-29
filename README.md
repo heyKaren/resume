@@ -27,7 +27,7 @@ Swift, Objective-C<br/>
 앱스토어 전체 6위 🥳
 라이프스타일 1위  🥳
 <img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png">
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/second.jpg"><img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/third.jpg">
+<img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png">
 
 
 
