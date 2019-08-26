@@ -25,10 +25,22 @@ Swift, Objective-C<br/>
 - Hybrid 기반 KEMP App 플랫폼 고도화
 - Objective-C to Swift 리뉴얼 개발
 
+<div>
+<img width="150" alt="image" src="./KEMP/1.png">
+<img width="150" alt="image" src="./KEMP/2.png">
+<img width="150" alt="image" src="./KEMP/3.png">
+</div><br/>
+
 ### KEMP Settings (iOS)<br/>
 - 2018.08 ~ now
 - 소속 : 가온소프트
 - 자사 배포 앱 관리 / 개발 용 Navtive App 개발
+
+<div>
+<img width="150" alt="image" src="./KEMPSettings/1.png">
+<img width="150" alt="image" src="./KEMPSettings/2.png">
+<img width="150" alt="image" src="./KEMPSettings/3.png">
+</div><br/>
 
 ### HiREN (iOS)<br/>
 - 2017.09 ~ 2018.02
@@ -36,6 +48,12 @@ Swift, Objective-C<br/>
 - 자사 Push Library  기반 Native App 개발
 - 신규 기능 개발 및 유지보수
 - 주요 기능 : 채팅, 연락처 동기화, Push
+
+<div>
+<img width="150" alt="image" src="./HiREN/img_HiREN_01.png">
+<img width="150" alt="image" src="./HiREN/img_HiREN_02.png">
+<img width="150" alt="image" src="./HiREN/img_HiREN_03.png">
+</div><br/>
 
 ### TiTAN SmartBroker (iOS)<br/>
 - 2017.09 ~ 2018.02
@@ -48,6 +66,12 @@ Swift, Objective-C<br/>
 - 2016.08 ~ 2017.06
 - 소속 : 에이치투오시스템테크놀로지
 - DDS Protocol을 사용한 Data Pub/Sub 가능한 프로토타입 App 개발
+
+<div>
+<img width="150" alt="image" src="./DDS/img_DDS_01.png">
+<img width="150" alt="image" src="./DDS/img_DDS_02.png">
+<img width="150" alt="image" src="./DDS/img_DDS_03.png">
+</div><br/>
 
 ### 실시간 L-V-C 연동 통신 미들웨어 프레임워크 개발 사업 (Windows)<br/>
 - 2017.03 ~ 2017.12
