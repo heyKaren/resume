@@ -34,7 +34,7 @@ Swift, Objective-C<br/>
 ### KEMP Settings (iOS)<br/>
 - 2018.08 ~ now
 - 소속 : 가온소프트
-- 자사 배포 앱 관리 / 개발 용 Navtive App 개발
+- Keychain Group을 사용한 자사 배포 앱 관리 / 개발 용 Navtive App 개발
 
 <div>
 <img width="150" alt="image" src="./KEMPSettings/1.png">
@@ -111,7 +111,7 @@ Swift, Objective-C<br/>
 <img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png">
 </div><br/> 
 
-- 다수 기사 및 인터뷰 첨부<br/> 
+- 다수 기사 및 인터뷰 첨부<br/><br/> 
 조선일보 <br/>
 <http://news.chosun.com/site/data/html_dir/2018/09/14/2018091402196.html?rsMobile=falsejSVblY4t-4SmN_Jag5E#Redyho/><br/>
 울산종합일보 <br/> 
