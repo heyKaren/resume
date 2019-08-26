@@ -111,4 +111,10 @@ Swift, Objective-C<br/>
 <img width="200" alt="image" src="./emotiontrash/img_emotiontrash_01.png"><img width="200" alt="image" src="./emotiontrash/img_emotiontrash_00.png">
 </div>
 
+- 다수 기사 및 인터뷰 첨부
+조선일보 <http://news.chosun.com/site/data/html_dir/2018/09/14/2018091402196.html? rsMobile=falsejSVblY4t-4SmN_Jag5E#Redyho/><br/>
+울산종합일보 <http://www.ujnews.co.kr/news/articleView.html?idxno=436103/><br/>
+얼루어(allure) <http://www.allurekorea.com/2018/10/30/%EB%9E%9C%EC%84%A0- %ED%9E%90%EB%A7%81/><br/>
+동아일보 <http://www.donga.com/news/article/all/20190411/95008509/1/><br/>
+DI투데이 <http://www.ditoday.com/articles/articles_view.html?idno=22808/><br/>
 
