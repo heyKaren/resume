@@ -7,6 +7,10 @@ Swift, Objective-C<br/>
 📍 github.com/heyKaren<br/>
 🔗 www.linkedin.com/in/heyKaren<br/>
 
+## Education.
+### 서울여자대학교 학사<br/>
+2013.03 - 2017.02<br/>
+
 ## Work Experience.
 ### 가온소프트 (Kaonsoft)<br/>
 2018.07 - 현재<br/>
