@@ -13,11 +13,11 @@ Swift, Objective-C<br/>
 
 ## Work Experience.
 ### 가온소프트 (Kaonsoft)<br/>
-iOS Developer
+iOS Developer<br/>
 2018.07 - 현재<br/>
 
 ### 에이치투오시스템테크놀로지 (H2Osystemtechnology)<br/>
-SW Engineer
+SW Engineer<br/>
 2016.07 - 2018.02<br/>
 
 ## Work Experience.
