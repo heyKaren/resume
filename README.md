@@ -14,17 +14,23 @@ Swift, Objective-C<br/>
 ## Work Experience.
 ### 가온소프트 (Kaonsoft)<br/>
 iOS Developer<br/>
-2018.07 - 현재<br/>
+2018.07 - 2020.02<br/>
 
 ### 에이치투오시스템테크놀로지 (H2Osystemtechnology)<br/>
 SW Engineer<br/>
 2016.07 - 2018.02<br/>
 
 ## Work Experience.
-### KEMP (iOS)<br/>
-- 2018.07 ~ now
+
+### KAI (iOS)<br/>
+- 2019.11 ~ 2020.02
 - 소속 : 가온소프트
-- Hybrid 기반 KEMP App 플랫폼 고도화
+- IOT Mobile Platform 개발
+
+### KEMP (iOS)<br/>
+- 2018.07 ~ 2020.02
+- 소속 : 가온소프트
+- Hybrid 기반 KEMP App Platform 고도화
 - Objective-C to Swift 리뉴얼 개발
 
 <div>
@@ -34,7 +40,7 @@ SW Engineer<br/>
 </div><br/>
 
 ### KEMP Settings (iOS)<br/>
-- 2018.08 ~ now
+- 2018.08 ~ 2020.02
 - 소속 : 가온소프트
 - Keychain Group을 사용한 자사 배포 앱 관리 / 개발 용 Navtive App 개발
 
@@ -82,6 +88,12 @@ SW Engineer<br/>
 - Visual Studio 2010
 
 ## Personal Experience.
+### 별별일기 (iOS)<br/>
+별처럼 빛나는 당신의 하루,<br/>
+별자리 운세 일기를 기록해보세요.<br/><br/>
+- 개발 기간 2019.12 - 2020.03<br/>
+- 소속 : Mash-Up
+
 ### 감쓰 (iOS)<br/>
 감정쓰레기, 버리기만 하세요<br/>
 청소는 감정청소부가 해줄게요!<br/>
