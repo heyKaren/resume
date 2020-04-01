@@ -92,7 +92,19 @@ SW Engineer<br/>
 별처럼 빛나는 당신의 하루,<br/>
 별자리 운세 일기를 기록해보세요.<br/><br/>
 - 개발 기간 2019.12 - 2020.03<br/>
-- 소속 : Mash-Up
+- 서비스 기간 2020.04 - 현재<br/>
+- 소속 Mash-Up<br/>
+- 사용 기술 Swift, Moya, SwiftLint, SnapKit FCM 등<br/>
+- 다운로드 <https://apps.apple.com/app/id1500714424/><br/><br/>
+
+**미리보기**<br/>
+<div>
+<img width="150" alt="image" src="./StarStarDiary/1.png">
+<img width="150" alt="image" src="./StarStarDiary/2.png">
+<img width="150" alt="image" src="./StarStarDiary/3.png">
+<img width="150" alt="image" src="./StarStarDiary/4.png">
+<img width="150" alt="image" src="./StarStarDiary/5.png">
+</div><br/>
 
 ### 감쓰 (iOS)<br/>
 감정쓰레기, 버리기만 하세요<br/>
@@ -100,8 +112,9 @@ SW Engineer<br/>
 감정쓰레기를 정리해줄 나만의 비밀 '감정쓰레기통', 감쓰<br/><br/>
 - 개발 기간 2018.03 - 2018.07<br/>
 - 서비스 기간 2018.09 - 현재<br/>
-- 사용 기술 Swift, Realm, Firebase<br/>
+- 사용 기술 Swift, Realm, FCM 등<br/>
 - 다운로드 <https://itunes.apple.com/kr/app/id1400251239/><br/><br/>
+
 **미리보기**<br/>
 <div>
 <video width="150" controls="controls" autoplay="autoplay">
